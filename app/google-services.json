@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196767863183",
+    "firebase_url": "https://travelmantics-2a563.firebaseio.com",
+    "project_id": "travelmantics-2a563",
+    "storage_bucket": "travelmantics-2a563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196767863183:android:2730bc2caca8ff5d",
+        "android_client_info": {
+          "package_name": "com.swahilimusicnotes.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196767863183-7chhmlgf80qqs86vasa4ocsmlid8j42t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swahilimusicnotes.travelmantics",
+            "certificate_hash": "b6e281c1042750dabe4213c811e3365631d22caa"
+          }
+        },
+        {
+          "client_id": "196767863183-gmocs87ollp0d9bkairrtsj98itd9sns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwPPB6wqHtM2mDYXRRE3zXiTjT3g6_5hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196767863183-gmocs87ollp0d9bkairrtsj98itd9sns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
